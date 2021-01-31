@@ -24,6 +24,10 @@ The model was evaluated based on confusion matrix calculation, details in this [
 - Recall 0.75
 - F1 score 0.76
 
+Sample results shown below:
+
+![Results](./images/results.jpg)
+
 Notebook to evaluate results can be found [here](https://github.com/tjeng/NamedEntityRecognition/blob/master/notebooks/Evaluate_NER.ipynb)
 
 The work is an open-source contribution that can extended to extract more COVID-19 related information and is part of a bigger task to use natural language processing techniques to help the medical community find answers to important questions. 
